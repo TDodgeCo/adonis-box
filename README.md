@@ -28,8 +28,16 @@ There should now be a new folder in your local machine's root directory with you
 
 4) Adonis-CLI 4.0.5
 
-### Coming Soon
+### Access Info
 
-1) MySQL
+#### MySQL
+Database: adonis
+User: root
+Password: root
+Port: 3306
 
-2) Redis
+While SSH'd into the box, type `mysql -u root -p`. You'll be prompted for the password.
+
+#### Redis
+
+Port: 6379
