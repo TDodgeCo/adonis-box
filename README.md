@@ -28,6 +28,10 @@ There should now be a new folder in your local machine's root directory with you
 
 4) Adonis-CLI 4.0.5
 
+5) MySQL 5.7.22
+
+6) Redis 4.0.9
+
 ### Access Info
 
 #### MySQL
