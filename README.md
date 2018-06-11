@@ -17,3 +17,19 @@ Simply clone this repo and run `vagrant up` and you're pretty much ready to star
 5) Run `adonis serve --dev` and open `http://192.168.33.10/` in your browser
 
 There should now be a new folder in your local machine's root directory with your applications name. Open that in your favorite text editor and get to coding!
+
+### What's Included
+
+1) Ubuntu 16.04
+
+2) Node 8.11.2
+
+3) NPM 5.6.0
+
+4) Adonis-CLI 4.0.5
+
+### Coming Soon
+
+1) MySQL
+
+2) Redis
