@@ -18,6 +18,8 @@ Simply clone this repo and run `vagrant up` and you're pretty much ready to star
 
 There should now be a new folder in your local machine's root directory with your applications name. Open that in your favorite text editor and get to coding!
 
+OPTIONAL - If you have an existing AdonisJS project that you would like to run inside Adonis-Box, simply clone it into `/var/www`. You'll need to make sure that you create a new `.env` file with an application key, otherwise it won't run.
+
 ### What's Included
 
 1) Ubuntu 16.04
