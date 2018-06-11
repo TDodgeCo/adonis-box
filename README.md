@@ -32,8 +32,11 @@ There should now be a new folder in your local machine's root directory with you
 
 #### MySQL
 Database: adonis
+
 User: root
+
 Password: root
+
 Port: 3306
 
 While SSH'd into the box, type `mysql -u root -p`. You'll be prompted for the password.
