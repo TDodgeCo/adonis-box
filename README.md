@@ -14,7 +14,7 @@ Simply clone this repo and run `vagrant up` and you're pretty much ready to star
 
 4) Run `cd /var/www/ && adonis new <your application name>`
 
-5) Run `nodemon server.js` and open `http://192.168.33.10/` in your browser
+5) Run `nodemon server.js -L` and open `http://192.168.33.10/` in your browser
 
 There should now be a new folder in your local machine's root directory with your applications name. Open that in your favorite text editor and get to coding!
 
