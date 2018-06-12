@@ -54,5 +54,5 @@ Port: `6379`
 
 ### Coming Soon
 
-PostgresQL support
+Postgres support
 
