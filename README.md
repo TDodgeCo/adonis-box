@@ -47,10 +47,15 @@ Port: `3306`
 
 While SSH'd into the box, type `mysql -u root -p`. You'll be prompted for the password.
 
+#####IMPORTANT: 
+You will still need to install the MySQL providers for adonis. Once you've done that, Adonis-Box is configured to work with the standard environment variables found in your `.env` file.  You'll just need to change the database to `MySQL`.
+
 #### Redis
 
 Port: `6379`
 
+#####IMPORTANT: 
+You will steel need to install the Redis providers for Adonis. Once you've done that, Adonis-Box is configured to work with Redis right away.
 
 ### Coming Soon
 
