@@ -4,7 +4,7 @@
 Vagrant.configure("2") do |config|
 
   config.vm.box = "tdodge1986/adonis-box"
-  config.vm.box_version = "0.0.2"
+  config.vm.box_version = "0.0.3"
   config.vm.provider "virtualbox" do |v|
     v.customize [ "modifyvm", :id, "--uartmode1", "disconnected" ]
   end
