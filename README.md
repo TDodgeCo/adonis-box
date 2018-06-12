@@ -50,3 +50,9 @@ While SSH'd into the box, type `mysql -u root -p`. You'll be prompted for the pa
 #### Redis
 
 Port: `6379`
+
+
+### Coming Soon
+
+PostgresQL support
+
