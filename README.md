@@ -34,6 +34,10 @@ OPTIONAL - If you have an existing AdonisJS project that you would like to run i
 
 6) Redis 4.0.9
 
+7) Nodemon 1.17.5
+
+8) PM2 2.10.4
+
 ### Access Info
 
 #### MySQL
